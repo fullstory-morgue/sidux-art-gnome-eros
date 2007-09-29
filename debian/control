@@ -1,0 +1,15 @@
+Source: sidux-art-gnome-eros
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+XS-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-gnome-gaia/trunk
+XS-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-gnome-gaia/trunk/
+
+Package: sidux-art-gnome-eros
+Architecture: all
+Depends: gdm
+Description: gnome theme for sidux 2007-04 eros
+ Provides gdm theme only at this stage, 
+ for sidux 2007-04 Eros release
