@@ -1,5 +1,6 @@
 sidux-art-gnome-eros (0.0) unstable; urgency=low
 
   * Initial Release.
+  * populate with initial theme objects 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 29 Sep 2007 12:44:54 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 02 Oct 2007 22:59:34 +1000
