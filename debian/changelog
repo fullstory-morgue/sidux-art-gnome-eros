@@ -1,8 +1,14 @@
 sidux-art-gnome-eros (0.2) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 04 Oct 2007 20:59:12 +0200
+  [ Bernard Gray ]
+  * add user list 
+  * theme gdm with eros colours
+  * update screenshot
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 07 Oct 2007 18:04:56 +1000
 
 sidux-art-gnome-eros (0.1) unstable; urgency=low
 
