@@ -1,3 +1,9 @@
+sidux-art-gnome-eros (0.4) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 19:07:17 +0200
+
 sidux-art-gnome-eros (0.3) unstable; urgency=low
 
   * update syntax for Vcs headers in debian/control
