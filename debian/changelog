@@ -1,8 +1,8 @@
-sidux-art-gnome-eros (0.9) UNRELEASED; urgency=low
+sidux-art-gnome-eros (0.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 23 Feb 2008 21:48:02 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:45:58 +0200
 
 sidux-art-gnome-eros (0.8) unstable; urgency=low
 
