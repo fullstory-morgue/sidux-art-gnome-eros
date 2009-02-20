@@ -1,8 +1,9 @@
-sidux-art-gnome-eros (0.12) UNRELEASED; urgency=low
+sidux-art-gnome-eros (0.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix desktop-entry-contains-encoding-key.
+  * clarify licensing.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:20:43 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:25:54 +0100
 
 sidux-art-gnome-eros (0.11) unstable; urgency=low
 
